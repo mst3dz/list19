@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:0, BR
+
+http://tv.factoryiptv.com/get.php?username=liam&password=liam&type=m3u
+
+#EXTINF:0, BR
+
+http://tv.factoryiptv.com:80/get.php?username=ricardo&password=ricardo&type=m3u
+
+#EXTINF:0, BR
+
+http://tv.factoryiptv.com:80/get.php?username=douglas&password=douglas&type=m3u
+
+#EXTINF:0, BR
+
+http://listaiptvbrasilhd.com.br/lista.m3u
+
+#EXTINF:0, BR
+
+http://greencorp.tech:80/get.php?username=R99nA1cAR2&password=opGSNkpqKy&type=m3u
+
+#EXTINF:0, BR
+
+http://iptv.csvix.net:8080/get.php?username=marcelo&password=12345&type=m3u
+
+#EXTINF:0, Brasil
+
+http://142.44.151.21:25461/get.php?username=suzanna&password=suzanna&type=m3u
+
+#EXTINF:0, Brasil
+
+http://144.217.254.99:25461/get.php?username=Danone2016&password=Danonedanone40&type=m3u
+
+#EXTINF:0, Brasil
+
+http://144.217.254.99:25461/get.php?username=Danone2016&password=Danonedanone40&type=m3u
